@@ -1,0 +1,50 @@
+body{
+    background-color: royalblue;
+}
+
+div{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 90px;
+    padding: 30px;
+    width: 80%;
+}
+/* .one{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 30px;
+    width: 30%;
+} */
+.two{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 30px;
+    width: 80%;
+}
+.three{
+    color: black;
+    background-color: aliceblue;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 30px;
+    width: 80%;
+}
+li{
+    display: inline;
+    margin-left: 350px;
+    border-radius: 50px;
+    border: 1 solid rgb(0, 0, 0); 
+    padding: 15px 15px;
+    background-color: rgb(255, 255, 255);
+
+}
+li:hover{
+    background-color: aqua;
+    color: black;
+}
